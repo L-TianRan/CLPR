@@ -11,3 +11,9 @@ http://speech.ee.ntu.edu.tw/~tlkagk/courses.html
 
 save and load models 
 http://keras.io/getting-started/faq/#how-can-i-save-a-keras-model
+
+keras中文文档(翻译版)
+https://keras-cn.readthedocs.io/en/latest/
+
+keras官方中文文档
+https://keras.io/zh/
